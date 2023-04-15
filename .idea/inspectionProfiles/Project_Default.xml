@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="pytube" />
+            <item index="1" class="java.lang.String" itemvalue="playwright" />
+            <item index="2" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="3" class="java.lang.String" itemvalue="rich" />
+            <item index="4" class="java.lang.String" itemvalue="requests" />
+            <item index="5" class="java.lang.String" itemvalue="praw" />
+            <item index="6" class="java.lang.String" itemvalue="sox" />
+            <item index="7" class="java.lang.String" itemvalue="visitor" />
+            <item index="8" class="java.lang.String" itemvalue="Flask-Bootstrap" />
+            <item index="9" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="10" class="java.lang.String" itemvalue="SQLAlchemy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="colorgram" />
+          <option value="list.send_keys" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
